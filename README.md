@@ -1,4 +1,4 @@
-#vagrant-nvm
+#vagrant configs
 
 ##Setup and Usage
 
