@@ -1,2 +1,8 @@
-# vagrant
-my vagrant: nvm (nodejs), rvm (ruby)
+#vagrant-nvm
+
+##Setup and Usage
+
+```
+vagrant up
+vagrant ssh
+```
